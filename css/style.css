@@ -1,0 +1,20 @@
+p{
+	/*position: fixed;*/
+	/*position: sticky;*/
+	/*display: none;*/
+	display: inline-block;
+	background: green;
+	padding: 20px 15px 40px 10px;
+	color: yellow;
+	border: 5px solid blue;
+	width: 45%;
+}
+
+p span{
+	font-family: sans-serif;
+	color: cyan;
+}
+
+p span span{
+	color: pink;
+}
